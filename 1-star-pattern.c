@@ -7,6 +7,7 @@ int main() {
   printf("* * *\n");
   printf("* * * *\n");
   printf("* * * * *\n");
+  Printf("\n");
 
   printf("Reverse Right Half Pyramid\n");
   printf("* * * * *\n");
